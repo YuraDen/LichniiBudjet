@@ -1,4 +1,4 @@
-# LichniiBudjet
+# Личный бюджет
 Desktop-приложение на C# WinForms (.NET Framework 4.7.2)
 
 Функции:
